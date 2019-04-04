@@ -1,0 +1,21 @@
+{
+    "name": "baha2odeh/yii2-easy-fileupload-behavior",
+    "description": "Yii2 Easy File Upload Behavior",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","file upload"," easy upload behavior easy load file"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Bahaa Odeh",
+            "email": "bw4@hotmail.it"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Baha2Odeh\\EasyFileUpload\\": ""
+        }
+    }
+}
